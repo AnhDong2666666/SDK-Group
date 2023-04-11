@@ -5,7 +5,7 @@ function upload ($http) {
             headers: {
                 'Accept': '*/*',
                 'Content-Type': undefined,
-                "Authorization": 'halinh'
+                "Authorization": 'anhdong'
             }
         });
     }
@@ -14,7 +14,7 @@ function upload ($http) {
             headers: {
                 'Accept': '*/*',
                 'Content-Type': undefined,
-                "Authorization": 'halinh'
+                "Authorization": 'anhdong'
             }
         });
     }
@@ -24,7 +24,7 @@ function upload ($http) {
             headers: {
                 'Accept': '*/*',
                 'Content-Type': undefined,
-                "Authorization": 'halinh'
+                "Authorization": 'anhdong'
             }
         });
     }

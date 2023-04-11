@@ -21,23 +21,7 @@ app.controller('Admin-prodctCtrl', function($scope, $http, shareData, apiService
                             product.category = category.data;
                         })
                     }
-                    // switch (product.groupId) {
-                    //     case 1:
-                    //         product.group = "Healthy every day";
-                    //         break;
-                    //     case 2:
-                    //         product.group = "Nutrition for baby";
-                    //         break;
-                    //     case 3:
-                    //         product.group = "Nutrition for olders";
-                    //         break;
-                    //     case 4:
-                    //         product.group = "Weight Gain";
-                    //         break;
-                    //     case 5:
-                    //         product.group = "Weight Loss";
-                    //         break;
-                    // };
+                    
                     product.stt = i;
                     i = i +1;
                 })

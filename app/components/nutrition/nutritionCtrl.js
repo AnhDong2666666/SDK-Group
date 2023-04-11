@@ -13,7 +13,7 @@ app.controller('NutritionCtrl', function($scope, $http, $location){
 	// 		$scope.book = response;
 	// 	});
 	// }
-  $scope.linh="ha van linhha";
+  $scope.linh="anh dong";
 $scope.add = function () {
   console.log(1323123124242);
     window.location.href='/';
